@@ -17,8 +17,8 @@ CHANGELOG
 
 V 0.7.0
 
--Fix the directory location error (the past version cannot create new directory at the working script location)
+-Fix the directory location error (the past version cannot create new project folder at the working script location)
 
--Tne new project cannot contain space and other "forbidden" characters
+-Project's name now cannot contain space and other "forbidden" characters
 
 -Interface upgrade
